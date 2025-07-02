@@ -1,1 +1,0 @@
-CREATE USER user5 IDENTIFIED BY "password5" PROFILE profil;
