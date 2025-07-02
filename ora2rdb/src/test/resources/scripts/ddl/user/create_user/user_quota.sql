@@ -1,0 +1,2 @@
+CREATE USER user7 IDENTIFIED BY "password7"
+QUOTA 100M ON users;
